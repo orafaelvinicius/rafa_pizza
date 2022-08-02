@@ -3,10 +3,10 @@
     background-color: #fff;
     border-radius: 5px;
     text-align: center;
-    margin: 8px 0;
+    margin: 8px 1px;
 }
 
-.prato .imagem-conteiner {
+.prato .imagem-conteiner img {
     max-width: 100%;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
